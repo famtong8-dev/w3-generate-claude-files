@@ -1,5 +1,5 @@
 ---
-name: generate-claude-files
+name: w3-generate-claude-files
 description: Generate CLAUDE.md, CODEMAP.md, and MEMORY.md for any backend project (Node.js, Python, Go, etc.) using prompts and manual analysis. Uses Claude AI to help you document your project constitution, codebase architecture, and context knowledge. Language-agnostic, prompt-based approach - focused on accurate, personalized documentation through interactive analysis.
 ---
 
@@ -278,7 +278,7 @@ Hybrid approach
 ## 📁 Skill Structure
 
 ```
-generate-claude-files/
+w3-generate-claude-files/
 ├── SKILL.md                              ← You are here
 └── references/
     ├── HOW_TO_USE_THIS_SKILL.md         ← Start here

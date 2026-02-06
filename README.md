@@ -1,6 +1,6 @@
 # Generate Claude Files - Complete Skill Package
 
-**Skill ID**: `generate-claude-files`
+**Skill ID**: `w3-generate-claude-files`
 **Approach**: Prompt-based (not code generation)
 **Duration**: 15-60 minutes
 **Languages**: Node.js • Python • Go • Java • C# • Ruby • And more!
@@ -28,7 +28,7 @@ This skill helps you generate three essential documentation files for **any back
 ## 📁 Skill Structure
 
 ```
-generate-claude-files/
+w3-generate-claude-files/
 ├── SKILL.md                          ← Main skill description
 ├── README.md                         ← This file
 └── references/

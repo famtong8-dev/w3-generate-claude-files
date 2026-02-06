@@ -186,7 +186,7 @@ For the complete experience with all details:
 ## 🗂️ Files in This Skill
 
 ```
-generate-claude-files/
+w3-generate-claude-files/
 ├── SKILL.md                          ← What this skill does
 └── references/
     ├── HOW_TO_USE_THIS_SKILL.md     ← You are here
