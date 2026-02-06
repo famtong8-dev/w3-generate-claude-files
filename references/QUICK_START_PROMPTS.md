@@ -341,8 +341,7 @@ After generating the three files:
 1. Place them in your project root
 2. Review for accuracy
 3. Update Last Modified dates
-4. Commit with: `feat: add Claude documentation files`
-5. Reference them in future Claude requests
+4. Reference them in future Claude requests
 
 Example:
 ```

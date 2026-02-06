@@ -368,7 +368,7 @@ A: Perfect! Creates shared documentation for any tech stack
 
 **Documentation Files**:
 
-- **[SKILL.md](./SKILL.md)** - Skill definition & optimization guide
+- **[SKILL.md](./SKILL.md)** - Skill definition & overview
 - **[HOW_TO_USE_THIS_SKILL.md](./references/HOW_TO_USE_THIS_SKILL.md)** - Complete guide
 - **[QUICK_START_PROMPTS.md](./references/QUICK_START_PROMPTS.md)** - Copy-paste prompts
 - **[PROMPT_BASED_WORKFLOW.md](./references/PROMPT_BASED_WORKFLOW.md)** - Detailed phases

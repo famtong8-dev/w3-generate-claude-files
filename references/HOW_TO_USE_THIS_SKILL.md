@@ -188,18 +188,14 @@ For the complete experience with all details:
 ```
 generate-claude-files/
 ├── SKILL.md                          ← What this skill does
-├── references/
-│   ├── HOW_TO_USE_THIS_SKILL.md     ← You are here
-│   ├── PROMPT_BASED_WORKFLOW.md     ← Detailed 4-phase guide
-│   ├── QUICK_START_PROMPTS.md       ← Copy-paste prompts for Claude
-│   ├── USAGE.md                     ← Additional usage examples
-│   ├── CLAUDE.md.template           ← Template reference
-│   ├── CODEMAP.md.template          ← Template reference
-│   └── MEMORY.md.template           ← Template reference
-└── scripts/                         ← Optional: automated scripts
-    ├── generate-all.sh
-    ├── analyze-repo.py
-    └── ...
+└── references/
+    ├── HOW_TO_USE_THIS_SKILL.md     ← You are here
+    ├── PROMPT_BASED_WORKFLOW.md     ← Detailed 4-phase guide
+    ├── QUICK_START_PROMPTS.md       ← Copy-paste prompts for Claude
+    ├── USAGE.md                     ← Additional usage examples
+    ├── CLAUDE.md.template           ← Template reference
+    ├── CODEMAP.md.template          ← Template reference
+    └── MEMORY.md.template           ← Template reference
 ```
 
 ---
@@ -247,8 +243,7 @@ generate-claude-files/
 5. Follow **Phase 4** → Fill in MEMORY.md template with your gotchas
 6. Review all three files for accuracy
 7. Paste into your project root
-8. Commit with: `feat: add Claude documentation files`
-9. Done! 🎉
+8. Done! 🎉
 
 ### Option C: AI-Assisted (30 min - Best of Both)
 
@@ -367,14 +362,7 @@ Result:
 - [ ] Add performance notes
 - [ ] Document team-specific gotchas
 
-### 3. Commit (5 min)
-```bash
-git add CLAUDE.md CODEMAP.md MEMORY.md
-git commit -m "feat: add Claude AI documentation files"
-git push origin main
-```
-
-### 4. Use in Claude Requests (Ongoing)
+### 3. Use in Claude Requests (Ongoing)
 ```
 "See CLAUDE.md, CODEMAP.md, and MEMORY.md for context"
 ```
@@ -491,9 +479,8 @@ REVIEW & CUSTOMIZE (10 min)
   ├─ Remove placeholders
   └─ Add context
   ↓
-COMMIT & USE (5 min)
+USE (5 min)
   ├─ Place files in project root
-  ├─ Git commit
   └─ Reference in future Claude requests
   ↓
 SUCCESS! 🎉
